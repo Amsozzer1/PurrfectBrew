@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/CV/NT266AGCLXLIWX0S3SCT6G.uasset",
+				"C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H2/VKOGYN2B9JZIW8MNI4BY2D.uasset",
+				"C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2U/38UO1S3VNI1HLTBYREF0TZ.uasset"
+			]
+		}
+	]
+}
