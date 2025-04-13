@@ -1,2 +1,3 @@
-2025/04/05-17:35:38.584 49f0 Creating DB C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/04/05-17:35:38.617 49f0 Reusing MANIFEST C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/09-14:24:01.480 7c30 Reusing MANIFEST C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/09-14:24:01.482 7c30 Recovering log #3
+2025/04/09-14:24:01.483 7c30 Reusing old log C:/Users/amsoz/OneDrive/Documents/Unreal Projects/PurrfectBrew/Saved/webcache_4430\Local Storage\leveldb/000003.log 
